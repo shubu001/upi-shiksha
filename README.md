@@ -1,4 +1,4 @@
-# upi_shiksha_v2
+# upi-shiksha
 
 A new Flutter project.
 
