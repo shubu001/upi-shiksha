@@ -32,7 +32,8 @@ UPI-Shiksha provides users with a hands-on experience of digital payments withou
 
 ## 🖥️ Live Website
 
-<img width="717" height="1540" alt="image" src="https://github.com/user-attachments/assets/d37c9832-b326-4e65-8dc2-5814e6370d3e" />
+<img width="1895" height="972" alt="UPI-Shiksha - Google Chrome 28-06-2026 02_54_46" src="https://github.com/user-attachments/assets/38d463dd-32f7-4845-993c-b3e18fdca7a6" />
+
 
 👉 https://shubu001.github.io/upi-shiksha/
 
@@ -53,13 +54,12 @@ Tools & Platforms:
 ---
 
 ## 📸 Screenshots
-<img width="736" height="1424" alt="image" src="https://github.com/user-attachments/assets/972090ab-4aff-411d-b462-db8e36068f7c" />
+# Login Screen 
+<img width="736" height="1424" alt="image" src="https://github.com/user-attachments/assets/972090ab-4aff-411d-b462-db8e36068f7c" /> 
 
-👉 Login Screen 
 
+# Dashboard 
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/980e42df-2e0e-48ff-b0c5-9d7eb2be600c" />
-
-👉 Dashboard 
 
 ---
 
